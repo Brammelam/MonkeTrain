@@ -1,9 +1,9 @@
-const cacheName = "Borm Studios-Monke on a train-1.0";
+const cacheName = "Borm Studios-Monke on a train-1.1";
 const contentToCache = [
     "Build/Webbuild.loader.js",
-    "Build/Webbuild.framework.js.br",
-    "Build/Webbuild.data.br",
-    "Build/Webbuild.wasm.br",
+    "Build/Webbuild.framework.js",
+    "Build/Webbuild.data",
+    "Build/Webbuild.wasm",
     "TemplateData/style.css"
 
 ];
